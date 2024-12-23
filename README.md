@@ -2,4 +2,4 @@
 
 https://youtube-exercise.netlify.app/
 
-![YouTube Exercise](youtube-ex.png)
+![YouTube Exercise](youtube-ex-0.png)
